@@ -71,5 +71,5 @@ wget https://raw.githubusercontent.com/riski12345/vip/main/update.sh && chmod +x
 <a href="https://t.me/peyyx" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 </p>
 <p align="center">
-<a href="https://wa.me/6287744622208" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a>
+<a href="https://wa.me/62881010102520" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a>
 </p>
